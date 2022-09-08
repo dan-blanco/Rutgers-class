@@ -13,4 +13,6 @@ This is a repo for storing class work!
 
 # Preview updates live!
 
-Daniel is making his own changes....
+
+Daniel is making his own changes
+James eddited this file too......
